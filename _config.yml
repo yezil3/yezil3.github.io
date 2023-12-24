@@ -86,7 +86,6 @@ author:
   # location         : "Irvine, CA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=bufbDK0AAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -115,6 +114,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  googlescholar    : "https://scholar.google.com/citations?user=bufbDK0AAAAJ&hl=en&oi=ao"
 
 
 # Reading Files
