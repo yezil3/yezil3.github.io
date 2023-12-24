@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a third-year Ph.D. student at University of California Irvine. My research interests are Trustworthy AI, Graph Neural Networks, and Data-centric AI. 
+I'm Yezi Liu. I'm currently a third-year Ph.D. student at University of California Irvine. My research interests are Trustworthy AI, Graph Neural Networks, and Data-centric AI. 
 
 Selected Publications
 ======
@@ -35,6 +35,6 @@ Selected Publications
 Education
 ======
 
-- Ph.D. Student, Computer Engineer, University of California Irvine. *Oct. 2021 - now*
-- Master of Science, Computer Science, Texas A&M University.  *Sep. 2019 - Aug. 2021* 
-- Master of Science, Information Science, University of Pittsburgh. *Sep. 2017 - April 2019*
+- Ph.D. Student, Computer Engineer, University of California Irvine. *Oct. 2021 - now.*
+- Master of Science, Computer Science, Texas A&M University.  *Sep. 2019 - Aug. 2021.* 
+- Master of Science, Information Science, University of Pittsburgh. *Sep. 2017 - April 2019.*
