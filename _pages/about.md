@@ -35,6 +35,6 @@ Selected Publications
 Education
 ======
 
-- Ph.D. Student, Computer Engineer, University of California Irvine. <div style="text-align: right">*Oct. 2021 - now* </div>
-- Master of Science, Computer Science, Texas A&M University. <div style="text-align: right"> *Sep. 2019 - Aug. 2021* </div>
-- Master of Science, Information Science, University of Pittsburgh. <div style="text-align: right">*Sep. 2017 - April 2019*</div>
+- Ph.D. Student, Computer Engineer, University of California Irvine. *Oct. 2021 - now*
+- Master of Science, Computer Science, Texas A&M University.  *Sep. 2019 - Aug. 2021* 
+- Master of Science, Information Science, University of Pittsburgh. *Sep. 2017 - April 2019*
