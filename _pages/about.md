@@ -21,6 +21,7 @@ I'm a third-year Ph.D. student at University of California Irvine. My research i
 
 Selected Publications
 ======
+
 - Error Detection on Knowledge Graphs with Triple Embedding. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10289852)
   - **Yezi Liu**, Qinggang Zhang, Mengnan Du, Xiao Huang, Xia Hu
   - EUSIPCO 2023.
@@ -30,3 +31,10 @@ Selected Publications
 - Explaining dynamic graph neural networks via relevance back-propagation. [Paper](https://arxiv.org/pdf/2207.11175.pdf)
   - **Yezi Liu**, Jiaxuan Xie, Yanning Shen
   - Under review.
+ 
+Education
+======
+
+- Ph.D. Student, Computer Engineer, University of California Irvine. <div style="text-align: right">*Oct. 2021 - now* </div>
+- Master of Science, Computer Science, Texas A&M University. <div style="text-align: right"> *Sep. 2019 - Aug. 2021* </div>
+- Master of Science, Information Science, University of Pittsburgh. <div style="text-align: right">*Sep. 2017 - April 2019*</div>
