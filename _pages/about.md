@@ -22,13 +22,13 @@ I'm Yezi Liu. I'm currently a third-year Ph.D. student at University of Californ
 Selected Publications
 ======
 
-- Error Detection on Knowledge Graphs with Triple Embedding. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10289852)
+- Error Detection on Knowledge Graphs with Triple Embedding. [\[Paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10289852)
   - **Yezi Liu**, Qinggang Zhang, Mengnan Du, Xiao Huang, Xia Hu
   - EUSIPCO 2023.
-- Contrastive knowledge graph error detection. [Paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557264)
+- Contrastive knowledge graph error detection. [\[Paper\]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557264)
   - Qinggang Zhang, Junnan Dong, Keyu Duan, Xiao Huang, **Yezi Liu**, Linchuan Xu
   - CIKM 2022.
-- Explaining dynamic graph neural networks via relevance back-propagation. [Paper](https://arxiv.org/pdf/2207.11175.pdf)
+- Explaining dynamic graph neural networks via relevance back-propagation. [\[Paper\]](https://arxiv.org/pdf/2207.11175.pdf)
   - **Yezi Liu**, Jiaxuan Xie, Yanning Shen
   - Under review.
  
