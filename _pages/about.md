@@ -21,13 +21,13 @@ I'm currently a third-year Ph.D. student at the University of California Irvine.
 
 Selected Publications:
 ===========
-<div class='paper-box'><div class='paper-box-image'><div><img src='https://github.com/yezil3/yezil3.github.io/assets/106938096/74cbd373-f85e-4308-b79e-750e1b8ad3df' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><img src='https://github.com/yezil3/yezil3.github.io/assets/106938096/74cbd373-f85e-4308-b79e-750e1b8ad3df' alt="sym" width=400></div></div>
+  
 <div class='paper-box-text' markdown="1">
-
-[Error Detection on Knowledge Graphs with Triple Embedding](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10289852) \\
+  
+Error Detection on Knowledge Graphs with Triple Embedding. [\[Paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10289852)
   - **Yezi Liu**, Qinggang Zhang, Mengnan Du, Xiao Huang, Xia Hu
   - EUSIPCO 2023.
-</div>
 </div>
 
 
