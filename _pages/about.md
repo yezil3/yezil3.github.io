@@ -17,9 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Yezi Liu. I'm currently a third-year Ph.D. student at University of California Irvine. My research interests are Trustworthy AI, Graph Neural Networks, and Data-centric AI. 
+I'm currently a third-year Ph.D. student at the University of California Irvine. My research interests are Trustworthy AI, Graph Neural Networks, and Data-centric AI. 
 
-Selected Publications
+Selected Publications:
+===========
+<div class='paper-box'><div class='paper-box-image'><div>img src='https://github.com/yezil3/yezil3.github.io/assets/106938096/74cbd373-f85e-4308-b79e-750e1b8ad3df' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Error Detection on Knowledge Graphs with Triple Embedding](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10289852) \\
+  - **Yezi Liu**, Qinggang Zhang, Mengnan Du, Xiao Huang, Xia Hu
+  - EUSIPCO 2023.
+</div>
+</div>
+
+
+<!----- Selected Publications
 ======
 <img width="1626" alt="image" src="https://github.com/yezil3/yezil3.github.io/assets/106938096/74cbd373-f85e-4308-b79e-750e1b8ad3df">
 - Error Detection on Knowledge Graphs with Triple Embedding. [\[Paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10289852)
@@ -33,6 +45,7 @@ Selected Publications
 - Explaining dynamic graph neural networks via relevance back-propagation. [\[Paper\]](https://arxiv.org/pdf/2207.11175.pdf)
   - **Yezi Liu**, Jiaxuan Xie, Yanning Shen
   - Under review.
+------->
  
 Education
 ======
