@@ -21,6 +21,18 @@ I'm currently a third-year Ph.D. student at the University of California Irvine.
 
 Selected Publications:
 ----------------------
+<div class='paper-box'><div class='paper-box-image'><div><img src='https://github.com/yezil3/yezil3.github.io/assets/106938096/74cbd373-f85e-4308-b79e-750e1b8ad3df' alt="sym" width=500></div></div>
+<div class='paper-box-text' markdown="1">
+
+Error Detection on Knowledge Graphs with Triple Embedding. [\[Paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10289852)
+- **Yezi Liu**, Qinggang Zhang, Mengnan Du, Xiao Huang, Xia Hu
+- EUSIPCO 2023.
+</div>
+</div>
+
+-----------
+
+<!-----
 Error Detection on Knowledge Graphs with Triple Embedding. [\[Paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10289852)
 - **Yezi Liu**, Qinggang Zhang, Mengnan Du, Xiao Huang, Xia Hu
 - EUSIPCO 2023.
@@ -39,7 +51,7 @@ Explaining dynamic graph neural networks via relevance back-propagation. [\[Pape
   - **Yezi Liu**, Jiaxuan Xie, Yanning Shen
   - Under review.
 <div class='paper-box-image', align="center"><div><img src='https://github.com/yezil3/yezil3.github.io/assets/106938096/0c0b4a1c-64fd-4dc2-8139-6f6c60948e59' alt="sym" width=700></div></div>
-
+------->
 
 <!----- Selected Publications
 ======
