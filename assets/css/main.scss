@@ -40,6 +40,7 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+// Code from: https://github.com/RayeRen/acad-homepage.github.io
 .paper-box {
     display: flex;
     justify-content: left;
@@ -69,7 +70,7 @@
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            padding-left: 2.5em;
+            padding-left: 3em;
             min-width: 200px;
             max-width: 35%;
             order: 2;
