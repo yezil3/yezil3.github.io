@@ -30,7 +30,7 @@ Selected Publications:
   
    EUSIPCO 2023.
 </div>
-<div class='paper-box-image'><div><img src='https://github.com/yezil3/yezil3.github.io/assets/106938096/74cbd373-f85e-4308-b79e-750e1b8ad3df' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><img src='https://github.com/yezil3/yezil3.github.io/assets/106938096/74cbd373-f85e-4308-b79e-750e1b8ad3df' alt="sym" width=400></div></div>
 </div>
 
 <div class='paper-box'>
@@ -43,7 +43,7 @@ Selected Publications:
   
    CIKM 2022.
 </div>
-<div class='paper-box-image'><div><img src='https://github.com/yezil3/yezil3.github.io/assets/106938096/a8a02b26-9b5c-43d4-9838-7e750e534e3f' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><img src='https://github.com/yezil3/yezil3.github.io/assets/106938096/a8a02b26-9b5c-43d4-9838-7e750e534e3f' alt="sym" width=400></div></div>
 </div>
 
 <div class='paper-box'>
@@ -56,7 +56,7 @@ Selected Publications:
   
    Under review.
 </div>
-<div class='paper-box-image'><div><img src='https://github.com/yezil3/yezil3.github.io/assets/106938096/0c0b4a1c-64fd-4dc2-8139-6f6c60948e59' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><img src='https://github.com/yezil3/yezil3.github.io/assets/106938096/0c0b4a1c-64fd-4dc2-8139-6f6c60948e59' alt="sym" width=400></div></div>
 </div>
  
 Education
