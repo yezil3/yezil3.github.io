@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a third-year Ph.D. student at the University of California Irvine. My research interests are Trustworthy AI, Graph Neural Networks, and Data-centric AI. 
+I'm currently a Ph.D. candidate at the University of California Irvine. My research interests are Trustworthy Machine Learning, Graph Neural Networks, and Data-centric AI. 
 
 Selected Publications:
 ----------------------
@@ -62,6 +62,6 @@ Selected Publications:
 Education
 ======
 
-- Ph.D. Student, Computer Engineer, University of California Irvine. *Oct. 2021 - now.*
+- Ph.D. Student, Computer Engineering, University of California Irvine. *Oct. 2021 - now.*
 - Master of Science, Computer Science, Texas A&M University.  *Sep. 2019 - Aug. 2021.* 
 - Master of Science, Information Science, University of Pittsburgh. *Sep. 2017 - April 2019.*
