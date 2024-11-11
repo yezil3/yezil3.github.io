@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a Ph.D. candidate at the University of California Irvine, supervised by Professor Mohsen Imani. My research interests are Trustworthy Machine Learning, Graph Neural Networks, and Data-centric AI. 
+I'm currently a Ph.D. candidate at the University of California Irvine, supervised by Professor [\[Mohsen Imani\]](http://www.mohsenimani.com/). My research interests are Trustworthy Machine Learning, Graph Neural Networks, and Data-centric AI. 
 
 Selected Publications:
 ----------------------
