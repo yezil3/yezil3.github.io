@@ -63,7 +63,7 @@ Selected Publications:
 
 <div class='paper-box-text' markdown="1">
 
-- **Recoverable Anonymization for Pose Estimation: A Privacy-Enhancing Approach** [\[Paper\]](https://arxiv.org/pdf/2409.02715))
+- **Recoverable Anonymization for Pose Estimation: A Privacy-Enhancing Approach** [\[Paper\]](https://arxiv.org/pdf/2409.02715)
 
    Wenjun Huang, Yang Ni, Arghavan Rezvani, SungHeon Jeong, Hanning Chen, **Yezi Liu**, Fei Wen, Mohsen Imani
   
