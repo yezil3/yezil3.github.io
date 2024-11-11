@@ -17,11 +17,76 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a Ph.D. candidate at the University of California Irvine. My research interests are Trustworthy Machine Learning, Graph Neural Networks, and Data-centric AI. 
+I'm currently a Ph.D. candidate at the University of California Irvine, supervised by Professor Mohsen Imani. My research interests are Trustworthy Machine Learning, Graph Neural Networks, and Data-centric AI. 
 
 Selected Publications:
 ----------------------
 <div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+- **Promoting Fairness in Link Prediction with Graph Enhancement** [\[Paper\]](https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2024.1489306/full)
+
+   **Yezi Liu**, Hanning Chen, Mohsen Imani
+  
+   Frontiers in Big Data.
+</div>
+<div class='paper-box-image'><div><img src='https://github.com/user-attachments/files/17708634/fairlink_framework9.2.pdf' alt="sym" width=400></div></div>
+</div>
+
+- **TinyData: Joint Dataset Condensation with Dimensionality Reduction** [\[Paper\]](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0002037.pdf)
+
+   **Yezi Liu**, Yanning Shen
+  
+   EUSIPCO 2024.
+</div>
+<div class='paper-box-image'><div><img src='https://github.com/user-attachments/assets/146f283a-a065-43c0-ae0c-f561a91a5e2b' alt="sym" width=400></div></div>
+</div>
+
+
+<div class='paper-box'>
+
+<div class='paper-box'>
+  
+<div class='paper-box-text' markdown="1">
+
+- **VLTP: Vision-Language Guided Token Pruning for Task-Oriented Segmentation** [\[Paper\]](https://arxiv.org/pdf/2409.08464)
+
+   Hanning Chen, Yang Ni, Wenjun Huang, **Yezi Liu**, SungHeon Jeong, Fei Wen, Nathaniel Bastian, Hugo Latapie, Mohsen Imani
+
+   WACV 2025.
+</div>
+<div class='paper-box-image'><div><img src='https://github.com/user-attachments/assets/e1aa570a-3bf9-4469-89a0-14ce81aa794d' alt="sym" width=400></div></div>
+</div>
+
+<div class='paper-box'>
+  
+<div class='paper-box-text' markdown="1">
+
+- **Recoverable Anonymization for Pose Estimation: A Privacy-Enhancing Approach** [\[Paper\]](https://arxiv.org/pdf/2409.02715))
+
+   Wenjun Huang, Yang Ni, Arghavan Rezvani, SungHeon Jeong, Hanning Chen, **Yezi Liu**, Fei Wen, Mohsen Imani
+  
+   WACV 2025.
+</div>
+<div class='paper-box-image'><div><img src='https://github.com/user-attachments/assets/89b5eb58-d306-446f-a401-e4fa06e4c222' alt="sym" width=400></div></div>
+</div>
+
+<div class='paper-box'>
+  
+<div class='paper-box-text' markdown="1">
+
+- **TaskClip: Extend Large Vision-Language Model for Task-Oriented Object Detection** [\[Paper\]](https://arxiv.org/pdf/2403.08108)
+
+   Hanning Chen, Wenjun Huang, Yang Ni, Sanggeon Yun, **Yezi Liu**, Fei Wen, Alvaro Velasquez, Hugo Latapie, Mohsen Imani
+  
+   FOCUS ECCV24 Workshop.
+</div>
+<div class='paper-box-image'><div><img src='https://github.com/user-attachments/assets/e170e9d4-394e-4993-be79-b86fce0662ef' alt="sym" width=400></div></div>
+</div>
+
+
+<div class='paper-box'>
+  
 <div class='paper-box-text' markdown="1">
   
 - **Error Detection on Knowledge Graphs with Triple Embedding** [\[Paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10289852)
@@ -37,7 +102,7 @@ Selected Publications:
   
 <div class='paper-box-text' markdown="1">
   
-- **Contrastive knowledge graph error detection** [\[Paper\]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557264)
+- **Contrastive Knowledge Graph Error Detection** [\[Paper\]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557264)
   
    Qinggang Zhang, Junnan Dong, Keyu Duan, Xiao Huang, **Yezi Liu**, Linchuan Xu
   
@@ -50,7 +115,7 @@ Selected Publications:
   
 <div class='paper-box-text' markdown="1">
   
-- **Explaining dynamic graph neural networks via relevance back-propagation** [\[Paper\]](https://arxiv.org/pdf/2207.11175.pdf)
+- **Explaining Dynamic Graph Neural Networks via Relevance Back-Propagation** [\[Paper\]](https://arxiv.org/pdf/2207.11175.pdf)
 
    **Yezi Liu**, Jiaxuan Xie, Yanning Shen
   
