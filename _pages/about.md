@@ -30,7 +30,7 @@ Selected Publications:
   
    Frontiers in Big Data.
 </div>
-<div class='paper-box-image'><div><img src='https://github.com/user-attachments/files/17708634/fairlink_framework9.2.pdf' alt="sym" width=400></div></div>
+<div class='paper-box-image'><div><img src='https://github.com/user-attachments/assets/e52c4869-ad03-4664-96b9-00b6fd1e3571' alt="sym" width=400></div></div>
 </div>
 
 - **TinyData: Joint Dataset Condensation with Dimensionality Reduction** [\[Paper\]](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0002037.pdf)
