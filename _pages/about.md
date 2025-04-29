@@ -33,6 +33,9 @@ Selected Publications:
 <div class='paper-box-image'><div><img src='https://github.com/yezil3/yezil3.github.io/assets/106938096/0c0b4a1c-64fd-4dc2-8139-6f6c60948e59' alt="sym" width=400></div></div>
 </div>
 
+<div class='paper-box'>
+
+<div class='paper-box-text' markdown="1">
 
 - **White Admitted by Stanford, Black Got Rejections: Exploring Racial Stereotypes in Text-to-Image Generation from a College Admissions Lens** [\[Paper\]](https://openreview.net/pdf?id=VEUVQsB8PI)
 
@@ -41,8 +44,12 @@ Selected Publications:
    WWW 2025 (Short Paper).
 
 </div>
-<div class='paper-box-image'><div><img src='[https://github.com/yezil3/yezil3.github.io/assets/106938096/0c0b4a1c-64fd-4dc2-8139-6f6c60948e59](https://github.com/user-attachments/files/19959294/www_intro.pdf)' alt="sym" width=400></div></div>
+<div class='paper-box-image'><div><img src='https://github.com/user-attachments/files/19959294/www_intro.pdf' alt="sym" width=400></div></div>
 </div>
+
+<div class='paper-box'>
+
+<div class='paper-box-text' markdown="1">
 
 - **Beyond Node Condensation: Learning Tiny Graphs via Joint Graph Condensation** [\[Paper\]](https://arxiv.org/abs/2407.08064)
 
@@ -50,8 +57,12 @@ Selected Publications:
   
    WWW 2025 (Short Paper).
 </div>
-<div class='paper-box-image'><div><img src='[https://github.com/yezil3/yezil3.github.io/assets/106938096/0c0b4a1c-64fd-4dc2-8139-6f6c60948e59](https://github.com/user-attachments/files/19959306/www_tinygraph_framework.pdf)' alt="sym" width=400></div></div>
+<div class='paper-box-image'><div><img src='https://github.com/user-attachments/files/19959306/www_tinygraph_framework.pdf' alt="sym" width=400></div></div>
 </div>
+
+<div class='paper-box'>
+
+<div class='paper-box-text' markdown="1">
 
 - **Promoting Fairness in Link Prediction with Graph Enhancement** [\[Paper\]](https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2024.1489306/full)
 
