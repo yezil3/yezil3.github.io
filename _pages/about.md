@@ -17,12 +17,41 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a Ph.D. candidate at the University of California Irvine, supervised by Professor <a href="http://www.mohsenimani.com/" style="text-decoration: none;">Mohsen Imani</a>. My research interests are Trustworthy Machine Learning, Graph Neural Networks, and Data-centric AI. 
+I'm currently a Ph.D. candidate at the University of California, Irvine, supervised by Professor <a href="http://www.mohsenimani.com/" style="text-decoration: none;">Mohsen Imani</a>. My research interests include trustworthy and efficient LLMs and machine learning, graph learning, and data-centric AI.
 
 Selected Publications:
 ----------------------
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
+
+- **Explaining Dynamic Graph Neural Networks via Relevance Back-Propagation** [\[Paper\]](https://arxiv.org/pdf/2207.11175.pdf)
+
+   **Yezi Liu**, Jiaxuan Xie, Yanning Shen
+  
+   IJCAI 2025.
+</div>
+<div class='paper-box-image'><div><img src='https://github.com/yezil3/yezil3.github.io/assets/106938096/0c0b4a1c-64fd-4dc2-8139-6f6c60948e59' alt="sym" width=400></div></div>
+</div>
+
+
+- **White Admitted by Stanford, Black Got Rejections: Exploring Racial Stereotypes in Text-to-Image Generation from a College Admissions Lens** [\[Paper\]](https://openreview.net/pdf?id=VEUVQsB8PI)
+
+   **Yezi Liu**, Wenjun Huang, Yang Ni, Hanning Chen, Mohsen Imani
+  
+   WWW 2025 (Short Paper).
+
+</div>
+<div class='paper-box-image'><div><img src='[https://github.com/yezil3/yezil3.github.io/assets/106938096/0c0b4a1c-64fd-4dc2-8139-6f6c60948e59](https://github.com/user-attachments/files/19959294/www_intro.pdf)' alt="sym" width=400></div></div>
+</div>
+
+- **Beyond Node Condensation: Learning Tiny Graphs via Joint Graph Condensation** [\[Paper\]](https://arxiv.org/abs/2407.08064)
+
+   **Yezi Liu**, Yanning Shen
+  
+   WWW 2025 (Short Paper).
+</div>
+<div class='paper-box-image'><div><img src='[https://github.com/yezil3/yezil3.github.io/assets/106938096/0c0b4a1c-64fd-4dc2-8139-6f6c60948e59](https://github.com/user-attachments/files/19959306/www_tinygraph_framework.pdf)' alt="sym" width=400></div></div>
+</div>
 
 - **Promoting Fairness in Link Prediction with Graph Enhancement** [\[Paper\]](https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2024.1489306/full)
 
@@ -114,15 +143,6 @@ Selected Publications:
 <div class='paper-box'>
 
 <div class='paper-box-text' markdown="1">
-  
-- **Explaining Dynamic Graph Neural Networks via Relevance Back-Propagation** [\[Paper\]](https://arxiv.org/pdf/2207.11175.pdf)
-
-   **Yezi Liu**, Jiaxuan Xie, Yanning Shen
-  
-   Under review.
-</div>
-<div class='paper-box-image'><div><img src='https://github.com/yezil3/yezil3.github.io/assets/106938096/0c0b4a1c-64fd-4dc2-8139-6f6c60948e59' alt="sym" width=400></div></div>
-</div>
  
 Education
 ======
