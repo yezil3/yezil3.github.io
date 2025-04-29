@@ -67,6 +67,8 @@ Selected Publications:
 <div class='paper-box-text' markdown="1">
 
 - **TinyData: Joint Dataset Condensation with Dimensionality Reduction** [\[Paper\]](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0002037.pdf)
+[www_tinygraph_framework.pdf](https://github.com/user-attachments/files/19959368/www_tinygraph_framework.pdf)
+[www_intro.pdf](https://github.com/user-attachments/files/19959367/www_intro.pdf)
 
    **Yezi Liu**, Yanning Shen
   
