@@ -62,8 +62,10 @@
             height: auto;
             object-fit: cover;
         @media (min-width: 768px) {
+        .paper-box-image img {
         width: 400px;
-        }
+    }
+}
         }
     }
     
