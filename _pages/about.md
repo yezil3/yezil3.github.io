@@ -63,7 +63,7 @@ Selected Publications:
 <div class='paper-box-text' markdown="1">
 
 - [ACM MM'25] **LVLM_CSP: Accelerating Large Vision Language Models via
-Clustering, Scattering, and Pruning for Reasoning Segmentation** [\[Paper\]](https://arxiv.org/pdf/2207.11175.pdf)
+Clustering, Scattering, and Pruning for Reasoning Segmentation** [\[Paper\]](https://arxiv.org/pdf/2504.10854)
 
    Hanning Chen, Yang Ni, Wenjun Huang, Hyunwoo Oh, **Yezi Liu**, Tamoghno Das, Mohsen Imani
 
