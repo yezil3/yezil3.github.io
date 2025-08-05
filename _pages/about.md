@@ -42,7 +42,7 @@ Selected Publications:
    **Yezi Liu**, Yanning Shen
   
 </div>
-<div class='paper-box-image'><div><img src='https://github.com/yezil3/yezil3.github.io/assets/106938096/0c0b4a1c-64fd-4dc2-8139-6f6c60948e59' alt="sym" width=400></div></div>
+<div class='paper-box-image'><div><img src='https://github.com/user-attachments/assets/98b1b384-4f43-4be4-a295-e9643c9fd388' alt="sym" width=400></div></div>
 </div>
 
 <div class='paper-box'>
@@ -55,7 +55,7 @@ Selected Publications:
    Divya Anand Sinha, **Yezi Liu**, Ruijie Du, Athina Markopoulou, Yanning Shen
   
 </div>
-<div class='paper-box-image'><div><img src='https://github.com/yezil3/yezil3.github.io/assets/106938096/0c0b4a1c-64fd-4dc2-8139-6f6c60948e59' alt="sym" width=400></div></div>
+<div class='paper-box-image'><div><img src='https://github.com/user-attachments/assets/9c9a6bbe-847a-45a1-94d7-0cc933a40b36' alt="sym" width=400></div></div>
 </div>
 
 <div class='paper-box'>
@@ -68,12 +68,13 @@ Clustering, Scattering, and Pruning for Reasoning Segmentation** [\[Paper\]]([ht
    Hanning Chen, Yang Ni, Wenjun Huang, Hyunwoo Oh, **Yezi Liu**, Tamoghno Das, Mohsen Imani
 
 </div>
-<div class='paper-box-image'><div><img src='https://github.com/user-attachments/assets/5f5d75d2-9faf-4fe8-80d6-571e1d09b0c6' alt="sym" width=400></div></div>
+<div class='paper-box-image'><div><img src='https://github.com/user-attachments/assets/b5bb115e-3750-4534-b5a6-92f5cf73c696' alt="sym" width=400></div></div>
 </div>
 
 <div class='paper-box'>
 
 <div class='paper-box-text' markdown="1">
+
 
 
 - [WWW'25 (Short)] **White Admitted by Stanford, Black Got Rejections: Exploring Racial Stereotypes in Text-to-Image Generation from a College Admissions Lens** [\[Paper\]](https://openreview.net/pdf?id=VEUVQsB8PI)
