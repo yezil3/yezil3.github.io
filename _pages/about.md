@@ -36,6 +36,7 @@ Selected Publications:
 
 <div class='paper-box-text' markdown="1">
 
+![attack.pdf](https://github.com/user-attachments/files/21600312/attack.pdf)
 
 - [CIKM'25] **Enabling Group Fairness in Machine Unlearning via Distribution Correction** [\[Paper\]](https://arxiv.org/pdf/2207.11175.pdf)
 
@@ -62,7 +63,6 @@ Selected Publications:
 
 <div class='paper-box-text' markdown="1">
 
-![image](https://github.com/user-attachments/files/21600247/attack.pdf)
 - [ACM MM'25] **LVLM_CSP: Accelerating Large Vision Language Models via
 Clustering, Scattering, and Pruning for Reasoning Segmentation** [\[Paper\]]([https://arxiv.org/pdf/2207.11175.pdf](https://arxiv.org/pdf/2504.10854))
 
