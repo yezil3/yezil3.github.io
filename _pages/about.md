@@ -36,8 +36,6 @@ Selected Publications:
 
 <div class='paper-box-text' markdown="1">
 
-[attack.pdf](https://github.com/user-attachments/files/21600427/attack.pdf)
-
 
 - [CIKM'25] **Enabling Group Fairness in Machine Unlearning via Distribution Correction** [\[Paper\]](https://arxiv.org/pdf/2207.11175.pdf)
 
@@ -70,7 +68,7 @@ Clustering, Scattering, and Pruning for Reasoning Segmentation** [\[Paper\]]([ht
    Hanning Chen, Yang Ni, Wenjun Huang, Hyunwoo Oh, **Yezi Liu**, Tamoghno Das, Mohsen Imani
 
 </div>
-<div class='paper-box-image'><div><img src='[https://github.com/yezil3/yezil3.github.io/assets/106938096/0c0b4a1c-64fd-4dc2-8139-6f6c60948e59](https://github.com/user-attachments/files/21599466/CSP_design.pdf)' alt="sym" width=400></div></div>
+<div class='paper-box-image'><div><img src='https://github.com/user-attachments/assets/5f5d75d2-9faf-4fe8-80d6-571e1d09b0c6' alt="sym" width=400></div></div>
 </div>
 
 <div class='paper-box'>
