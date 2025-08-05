@@ -50,7 +50,7 @@ Selected Publications:
 <div class='paper-box-text' markdown="1">
 
 
-- [TMLR] **Gradient Inversion Attack on Graph Neural Networks** [\[Paper\]]([https://openreview.net/forum?id=a0mLrqkWyx)
+- [TMLR] **Gradient Inversion Attack on Graph Neural Networks** [\[Paper\]](https://openreview.net/forum?id=a0mLrqkWyx)
 
    Divya Anand Sinha, **Yezi Liu**, Ruijie Du, Athina Markopoulou, Yanning Shen
   
@@ -63,7 +63,7 @@ Selected Publications:
 <div class='paper-box-text' markdown="1">
 
 - [ACM MM'25] **LVLM_CSP: Accelerating Large Vision Language Models via
-Clustering, Scattering, and Pruning for Reasoning Segmentation** [\[Paper\]]([https://arxiv.org/pdf/2207.11175.pdf](https://arxiv.org/pdf/2504.10854))
+Clustering, Scattering, and Pruning for Reasoning Segmentation** [\[Paper\]](https://arxiv.org/pdf/2207.11175.pdf)
 
    Hanning Chen, Yang Ni, Wenjun Huang, Hyunwoo Oh, **Yezi Liu**, Tamoghno Das, Mohsen Imani
 
