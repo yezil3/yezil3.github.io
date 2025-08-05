@@ -36,7 +36,8 @@ Selected Publications:
 
 <div class='paper-box-text' markdown="1">
 
-![image](https://github.com/user-attachments/files/21600312/attack.pdf)
+[attack.pdf](https://github.com/user-attachments/files/21600427/attack.pdf)
+
 
 - [CIKM'25] **Enabling Group Fairness in Machine Unlearning via Distribution Correction** [\[Paper\]](https://arxiv.org/pdf/2207.11175.pdf)
 
