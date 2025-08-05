@@ -36,6 +36,49 @@ Selected Publications:
 
 <div class='paper-box-text' markdown="1">
 
+
+- [CIKMc'25] **Enabling Group Fairness in Machine Unlearning via Distribution Correction** [\[Paper\]](https://arxiv.org/pdf/2207.11175.pdf)
+
+   **Yezi Liu**, Yanning Shen
+  
+</div>
+<div class='paper-box-image'><div><img src='https://github.com/yezil3/yezil3.github.io/assets/106938096/0c0b4a1c-64fd-4dc2-8139-6f6c60948e59' alt="sym" width=400></div></div>
+</div>
+
+<div class='paper-box'>
+
+<div class='paper-box-text' markdown="1">
+[FMU_Framework.pdf](https://github.com/user-attachments/files/21600014/FMU_Framework.pdf)
+
+
+- [TMLR] **Gradient Inversion Attack on Graph Neural Networks** [\[Paper\]]([https://arxiv.org/pdf/2207.11175.pdf](https://openreview.net/forum?id=a0mLrqkWyx))
+
+   Divya Anand Sinha, **Yezi Liu**, Ruijie Du, Athina Markopoulou, Yanning Shen
+  
+</div>
+<div class='paper-box-image'><div><img src='https://github.com/yezil3/yezil3.github.io/assets/106938096/0c0b4a1c-64fd-4dc2-8139-6f6c60948e59' alt="sym" width=400></div></div>
+</div>
+
+<div class='paper-box'>
+
+<div class='paper-box-text' markdown="1">
+  
+[attack.pdf](https://github.com/user-attachments/files/21599976/attack.pdf)
+
+- [ACM MM'25] **LVLM_CSP: Accelerating Large Vision Language Models via
+Clustering, Scattering, and Pruning for Reasoning Segmentation** [\[Paper\]]([https://arxiv.org/pdf/2207.11175.pdf](https://arxiv.org/pdf/2504.10854))
+
+   Hanning Chen, Yang Ni, Wenjun Huang, Hyunwoo Oh, **Yezi Liu**, Tamoghno Das, Mohsen Imani
+
+</div>
+<div class='paper-box-image'><div><img src='[https://github.com/yezil3/yezil3.github.io/assets/106938096/0c0b4a1c-64fd-4dc2-8139-6f6c60948e59](https://github.com/user-attachments/files/21599466/CSP_design.pdf)' alt="sym" width=400></div></div>
+</div>
+
+<div class='paper-box'>
+
+<div class='paper-box-text' markdown="1">
+[CSP_design.pdf](https://github.com/user-attachments/files/21599991/CSP_design.pdf)
+
 - [WWW'25 (Short)] **White Admitted by Stanford, Black Got Rejections: Exploring Racial Stereotypes in Text-to-Image Generation from a College Admissions Lens** [\[Paper\]](https://openreview.net/pdf?id=VEUVQsB8PI)
 
    **Yezi Liu**, Wenjun Huang, Yang Ni, Hanning Chen, Mohsen Imani
