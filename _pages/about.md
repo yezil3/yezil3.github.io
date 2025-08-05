@@ -50,7 +50,7 @@ Selected Publications:
 <div class='paper-box-text' markdown="1">
 
 
-- [TMLR] **Gradient Inversion Attack on Graph Neural Networks** [\[Paper\]](https://openreview.net/forum?id=a0mLrqkWyx)
+- [TMLR] **Gradient Inversion Attack on Graph Neural Networks** [\[Paper\]]([https://openreview.net/forum?id=a0mLrqkWyx)
 
    Divya Anand Sinha, **Yezi Liu**, Ruijie Du, Athina Markopoulou, Yanning Shen
   
