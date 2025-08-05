@@ -42,7 +42,7 @@ Selected Publications:
    **Yezi Liu**, Yanning Shen
   
 </div>
-<div class='paper-box-image'><div><img src='https://github.com/user-attachments/assets/98b1b384-4f43-4be4-a295-e9643c9fd388' alt="sym" width=400></div></div>
+<div class='paper-box-image'><div><img src='https://github.com/user-attachments/assets/98b1b384-4f43-4be4-a295-e9643c9fd388' alt="sym" width=280></div></div>
 </div>
 
 <div class='paper-box'>
