@@ -58,8 +58,12 @@
         width: 100%;
         order: 1;
         img {
-            max-width: 500px;
+            max-width: 100%;
+            height: auto;
             object-fit: cover;
+        @media (min-width: 768px) {
+        width: 400px;
+        }
         }
     }
     
