@@ -24,8 +24,7 @@ Selected Publications:
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
-- [WSDM'26] **Debias Once for All: A Data-Centric Strategy for Fair Machine Learning** [\[Paper\]]
- (https://yezil3.github.io/)
+- [WSDM'26] **Debias Once for All: A Data-Centric Strategy for Fair Machine Learning** [\[Paper\]](https://yezil3.github.io/)
 
    **Yezi Liu**, Hanning Chen, Yanning Shen, Mohsen Imani
   
