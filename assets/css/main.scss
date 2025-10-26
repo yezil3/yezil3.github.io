@@ -42,61 +42,62 @@
 
 // Code from: https://github.com/RayeRen/acad-homepage.github.io
 .paper-box {
+  display: flex;
+  width: 100%;
+  justify-content: left;
+  align-items: top;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border-bottom: 1px #efefef solid;
+  padding: 1em 0 1.5em 0;
+
+  .paper-box-image {
+    justify-content: center;
     display: flex;
     width: 100%;
-    justify-content: left;
-    align-items: top;
-    flex-direction: row;
-    flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 1em 0 1.5em 0;
+    order: 1;
 
+    img {
+      max-width: 100%;
+      height: auto;
+      object-fit: cover;
+    }
+  }
+
+  .paper-box-text {
+    max-width: 100%;
+    order: 2;
+  }
+
+  @include breakpoint($medium) {
     .paper-box-image {
-        justify-content: center;
-        display: flex;
-        width: 100%;
-        order: 1;
-
-        img {
-            max-width: 100%;
-            height: auto;
-            object-fit: cover;
-        }
+      justify-content: left;
+      padding-left: 0.5em; 
+      min-width: 200px;
+      max-width: 35%;     
+      order: 2;
     }
 
     .paper-box-text {
-        max-width: 100%;
-        order: 2;
+      justify-content: left;
+      max-width: 65%;     
+      order: 1;
     }
-
-    @include breakpoint($medium) {
-        .paper-box-image {
-            justify-content: left;
-            padding-left: 1em;
-            min-width: 200px;
-            max-width: 40%;
-            order: 2;
-        }
-
-        .paper-box-text {
-            justify-content: left;
-            max-width: 60%;
-            order: 1;
-        }
-    }
+  }
 }
 
-/* Image width adjustment for desktop */
+
 @media (min-width: 768px) {
   .paper-box-image img {
     width: 500px;
   }
 }
 
-/* Expand the page content container width */
+
 .page,
 .page__content,
 .wrapper {
   max-width: 1400px;
 }
+
 
