@@ -50,46 +50,53 @@
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 1em 0 1.5em 0;
-    
 
-    .paper-box-image{
+    .paper-box-image {
         justify-content: center;
         display: flex;
         width: 100%;
         order: 1;
+
         img {
             max-width: 100%;
             height: auto;
             object-fit: cover;
-        @media (min-width: 768px) {
-        .paper-box-image img {
-        width: 500px;
-    }
-}
         }
     }
-    
-    .paper-box-text{
+
+    .paper-box-text {
         max-width: 100%;
         order: 2;
     }
-    
+
     @include breakpoint($medium) {
-        .paper-box-image{
+        .paper-box-image {
             justify-content: left;
             padding-left: 1em;
             min-width: 200px;
             max-width: 40%;
             order: 2;
         }
-        
-        .paper-box-text{
+
+        .paper-box-text {
             justify-content: left;
             max-width: 60%;
             order: 1;
         }
-
     }
-
-
 }
+
+/* Image width adjustment for desktop */
+@media (min-width: 768px) {
+  .paper-box-image img {
+    width: 500px;
+  }
+}
+
+/* Expand the page content container width */
+.page,
+.page__content,
+.wrapper {
+  max-width: 1400px;
+}
+
