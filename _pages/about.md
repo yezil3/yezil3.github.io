@@ -40,15 +40,14 @@ Recently, I’ve been working on (first-authored):
 
 ## News
 
-- **Oct. 2025:** One paper has been accepted by **WSDM 2026**. See you in **Boise, Idaho, USA**. :contentReference[oaicite:0]{index=0}
-- **Jun. 2025:** One paper has been accepted by **ACM Multimedia 2025**. See you in **Dublin, Ireland**. :contentReference[oaicite:1]{index=1}
-- **May 16, 2025:** One paper has been accepted by **CIKM 2025**. See you in **Seoul, South Korea**. :contentReference[oaicite:2]{index=2}
-- **Mar. 18, 2025:** One paper has been accepted by **IJCAI 2025**. See you in **Montréal, Canada**. :contentReference[oaicite:3]{index=3}
-- **Dec. 13, 2024:** One short paper has been accepted by **The Web Conference (WWW) 2025**. See you in **Washington, D.C., USA**. :contentReference[oaicite:4]{index=4}
-- **Oct. 28, 2024:** One paper has been accepted by **WACV 2025**. See you in **Tucson, Arizona, USA**. :contentReference[oaicite:5]{index=5}
-- **Aug. 19, 2024:** One workshop paper has been accepted by **FOCUS @ ECCV 2024**. See you in **Milan, Italy**. :contentReference[oaicite:6]{index=6}
-- **May 31, 2024:** One paper has been accepted by **EUSIPCO 2024**. See you in **Lyon, France**. :contentReference[oaicite:7]{index=7}
-- **Aug. 4, 2023:** One paper has been accepted by **CIKM 2023**. See you in **Birmingham, United Kingdom**. :contentReference[oaicite:8]{index=8}
-- **May 29, 2023:** One paper has been accepted by **EUSIPCO 2023**. See you in **Helsinki, Finland**. :contentReference[oaicite:9]{index=9}
-- **Aug. 1, 2022:** One paper has been accepted by **CIKM 2022**. See you in **Atlanta, Georgia, USA**. :contentReference[oaicite:10]{index=10}
-- **Dec. 2018:** One paper has been accepted by **ICONIP 2018**. See you in **Siem Reap, Cambodia**. :contentReference[oaicite:11]{index=11}
+- **Oct. 2025:** One paper has been accepted by **WSDM 2026**. See you in **Boise, Idaho, USA**. 
+- **Jun. 2025:** One paper has been accepted by **ACM Multimedia 2025**. See you in **Dublin, Ireland**. 
+- **May 16, 2025:** One paper has been accepted by **CIKM 2025**. See you in **Seoul, South Korea**. 
+- **Mar. 18, 2025:** One paper has been accepted by **IJCAI 2025**. See you in **Montréal, Canada**. 
+- **Dec. 13, 2024:** Two papers has been accepted by **The Web Conference (WWW) 2025**. See you in **Washington, D.C., USA**.
+- **Oct. 28, 2024:** Two papers has been accepted by **WACV 2025**. See you in **Tucson, Arizona, USA**. 
+- **Aug. 19, 2024:** One paper has been accepted by **ECCV 2024**. See you in **Milan, Italy**.
+- **May 31, 2024:** One paper has been accepted by **EUSIPCO 2024**. See you in **Lyon, France**. 
+- **Aug. 4, 2023:** One paper has been accepted by **CIKM 2023**. See you in **Birmingham, United Kingdom**. 
+- **May 29, 2023:** One paper has been accepted by **EUSIPCO 2023**. See you in **Helsinki, Finland**. 
+- **Aug. 1, 2022:** One paper has been accepted by **CIKM 2022**. See you in **Atlanta, Georgia, USA**. 
