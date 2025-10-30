@@ -21,7 +21,7 @@ icon:  # the emoji used as the favicon (alternatively, provide image name in /as
 url: https://yezil3.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
-impressum_path:
+impressum_path: 🎃
 back_to_top: true
 
 # -----------------------------------------------------------------------------
