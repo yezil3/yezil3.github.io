@@ -31,7 +31,7 @@ Recently I’ve been working on (first-authored):
 
 - **Privacy-aware efficient LLM.** [under review]
 - **Efficient LLM reasoning through KGs.** Using high-dimensional representations for path retrieval / KG reasoning to reduce memory and compute while preserving reasoning performance. [under review]
-- **Fairness on graphs / ML / LLMs.** [[WSDM’26](https://yezil3.github.io/)], [[WWW’25 (short)(https://dl.acm.org/doi/pdf/10.1145/3701716.3715479)], [[CIKM’23 (short)](https://dl.acm.org/doi/pdf/10.1145/3583780.3615176)], [[Frontiers in Big Data](https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2024.1489306/full)]
+- **Fairness on graphs / ML / LLMs.** [[WSDM’26](https://yezil3.github.io/)], [[WWW’25 (short)](https://dl.acm.org/doi/pdf/10.1145/3701716.3715479)], [[CIKM’23 (short)](https://dl.acm.org/doi/pdf/10.1145/3583780.3615176)], [[Frontiers in Big Data](https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2024.1489306/full)]
 - **Fair and privacy-aware graph learning / ML.** Fairness-aware graph unlearning / machine unlearning. [[CIKM’25](https://yezil3.github.io/)]
 - **Data-centric efficient graph learning / ML.** Condensing graph/tabular data into tiny data for efficient training. [[EUSIPCO’24](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10715024)], [[WWW’25 (short)](https://dl.acm.org/doi/pdf/10.1145/3701716.3715566)]
 - **Other trustworthy ML directions.** Interpretable dynamic GNNs: [[EUSIPCO’23](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10289852)], Anomaly detection on KGs: [[IJCAI’25](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/8064.pdf)]
