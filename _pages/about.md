@@ -47,7 +47,7 @@ Recently, I’ve been working on (first-authored):
 - July 2025: One paper has been accepted by ACM Multimedia 2025! See you in Ireland!
 - May 2025: One paper has been accepted by TMLR.
 - April 2025: One paper has been accepted by IJCAI 2025. See you in Canada!
-- Jan. 2025: Two papers have been accepted by The Web Conference (WWW) 2025. See you in Washington, D.C.!
+- Jan. 2025: Two papers have been accepted by The Web Conference 2025. See you in Washington, D.C.!
 - Oct. 2024: Two papers have been accepted by WACV 2025. See you in Tucson!
 - Aug. 2024: One paper has been accepted by ECCV 2024. See you in Italy!
 - May 2024: One paper has been accepted by EUSIPCO 2024. See you in France!
