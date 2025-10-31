@@ -88,6 +88,11 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
+      - name: Clean Jekyll cache
+        run: |
+          rm -rf .jekyll-cache
+          rm -rf _site
+          rm -rf vendor/bundle          
       - name: Install and Build 🔧
         run: |
           sudo apt-get update && sudo apt-get install -y imagemagick
