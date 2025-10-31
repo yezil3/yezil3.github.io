@@ -68,5 +68,5 @@ Recently, I’ve been working on (first-authored):
   
 ## Publications
 
-Please refer to the [publications](/publications/) page or my [Google Scholar](https://scholar.google.com/your-scholar-id-here).
+Please refer to the [Publications](/publications/) page or my [Google Scholar](https://scholar.google.com/citations?user=bufbDK0AAAAJ&hl=en).
 
