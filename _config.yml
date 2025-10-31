@@ -45,16 +45,16 @@ repo_trophies:
 # Layout
 # -----------------------------------------------------------------------------
 
+navbar-links:
+  About: /
+  Publications: /publications/
+  
 navbar_fixed: true
 footer_fixed: true
 search_enabled: true
 socials_in_search: true
 posts_in_search: true
 bib_search: true
-
-navbar-links:
-  About: /
-  Publications: /publications/
 
 # Dimensions
 max_width: 930px
