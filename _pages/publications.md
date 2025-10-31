@@ -8,7 +8,7 @@ nav: true
 nav_order: 1
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=XMrlrV8AAAAJ)
+[Google Scholar](https://scholar.google.com/citations?user=bufbDK0AAAAJ&hl)
 
 $$*$$ equal contribution.
 
