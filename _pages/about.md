@@ -6,7 +6,7 @@ profile:
   align: right
   image: profile_photo_cube.jpg
   image_circular: false
-selected_papers: true
+selected_papers: false
 social: true
 
 nav:
@@ -16,15 +16,16 @@ nav:
     url: /publications/
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
+
 ## About me
 
 I’m a Ph.D. candidate in the Department of Electrical Engineering and Computer Science at the **University of California, Irvine (UCI)**, advised by [Prof. Mohsen Imani](http://www.mohsenimani.com/). Before that, I did my M.S. in Computer Science at Texas A&M University with [Prof. Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) and worked on knowledge-graph error detection and trustworthy data mining.
@@ -62,5 +63,10 @@ Recently, I’ve been working on (first-authored):
 
 - M.S. in Computer Science, Texas A&M University, 2019 – 2021
 
-- M.S. in Information Science, University of Pittsburgh, 2017 – 2019 
+- M.S. in Information Science, University of Pittsburgh, 2017 – 2019
+
+  
+## Publications
+
+Please refer to the [publications](/publications/) page or my [Google Scholar](https://scholar.google.com/your-scholar-id-here).
 
