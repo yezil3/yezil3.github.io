@@ -1,38 +1,39 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'jekyll'
+# 核心
+gem "jekyll", "~> 4.4"
 
-# Core plugins that directly affect site building
 group :jekyll_plugins do
-    gem 'jekyll-archives-v2'
-    gem 'jekyll-email-protect'
-    gem 'jekyll-feed'
-    gem 'jekyll-get-json'
-    gem 'jekyll-imagemagick'
-    gem 'jekyll-jupyter-notebook'
-    gem 'jekyll-link-attributes'
-    gem 'jekyll-minifier'
-    gem 'jekyll-paginate-v2'
-    gem 'jekyll-regex-replace'
-    gem 'jekyll-scholar'
-    gem 'jekyll-sitemap'
-    gem 'jekyll-tabs'
-    gem 'jekyll-terser', :git => "https://github.com/RobertoJBeltran/jekyll-terser.git"
-    gem 'jekyll-toc'
-    gem 'jekyll-twitter-plugin'
-    gem 'jemoji'
+  # 真的常用的
+  gem "jekyll-feed"
+  gem "jekyll-sitemap"
+  gem "jekyll-paginate-v2"
+  gem "jekyll-toc"
+  gem "jekyll-scholar"
+  gem "jekyll-tabs"
+  gem "jemoji"
 
-    gem 'classifier-reborn'  # used for content categorization during the build
+  # 你要的这个也可以留着
+  gem "jekyll-link-attributes"
+
+  # 下面这几个先关掉，等稳定了再说
+  # gem "jekyll-imagemagick"
+  # gem "jekyll-jupyter-notebook"
+  # gem "jekyll-minifier"
+  # gem "jekyll-terser", git: "https://github.com/RobertoJBeltran/jekyll-terser.git"
+  # gem "jekyll-get-json"
+  # gem "jekyll-email-protect"
+  # gem "jekyll-regex-replace"
+  # gem "jekyll-twitter-plugin"
+  # gem "jekyll-archives-v2"
+  # gem "classifier-reborn"
 end
 
-# Gems for development or external data fetching (outside :jekyll_plugins)
-group :other_plugins do
-    gem 'css_parser'
-    gem 'feedjira'
-    gem 'httparty'
-    gem 'observer'       # used by jekyll-scholar
-    gem 'ostruct'        # used by jekyll-twitter-plugin
-    # gem 'terser'         # used by jekyll-terser
-    # gem 'unicode_utils' -- should be already installed by jekyll
-    # gem 'webrick' -- should be already installed by jekyll
-end
+# 开发/辅助的可以先全关
+# group :other_plugins do
+#   gem "css_parser"
+#   gem "feedjira"
+#   gem "httparty"
+#   gem "observer"
+#   gem "ostruct"
+# end
