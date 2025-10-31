@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News
-permalink: /news/
+permalink: /
 ---
 
 - Oct. 2025: One paper has been accepted by WSDM 2026. See you in Boise!
