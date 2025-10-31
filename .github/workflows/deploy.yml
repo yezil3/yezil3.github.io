@@ -67,6 +67,7 @@ permissions:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
@@ -75,7 +76,7 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.3.5"
-          bundler-cache: true
+          bundler-cache: true   # 自动 bundle install + cache
 
       - name: Setup Python 🐍
         uses: actions/setup-python@v5
@@ -91,21 +92,29 @@ jobs:
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
 
+      # 这里只清 jekyll 本地缓存，不要动 vendor/bundle !!!
       - name: Clean Jekyll cache
         run: |
           rm -rf .jekyll-cache
           rm -rf _site
-          rm -rf vendor/bundle
 
-      - name: Install and Build 🔧
+      - name: Install system deps 🔧
         run: |
-          sudo apt-get update && sudo apt-get install -y imagemagick
-          pip3 install --upgrade nbconvert
-          export JEKYLL_ENV=production
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
+
+      # 保险起见再跑一次 bundle install（即使上面 cache 了也不会很慢）
+      - name: Bundle install 📦
+        run: |
           bundle install --jobs 4 --retry 3
-          bundle exec jekyll build
 
+      - name: Build site 🏗️
+        env:
+          JEKYLL_ENV: production
+        run: |
+          bundle exec jekyll build --trace
 
+      # 你要是这个步骤总是报错，也可以先注释掉
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
         uses: JamesIves/github-pages-deploy-action@v4
