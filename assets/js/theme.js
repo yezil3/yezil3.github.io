@@ -2,8 +2,8 @@
 
 // Toggle only between light and dark.
 let toggleThemeSetting = () => {
-  let themeSetting = determineThemeSetting();
-  if (themeSetting == "light") {
+  let themeSetting = document.documentElement.getAttribute("data-theme-setting") || "light";
+  if (themeSetting === "light") {
     setThemeSetting("dark");
   } else {
     setThemeSetting("light");
