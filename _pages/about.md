@@ -9,12 +9,6 @@ profile:
 selected_papers: false
 social: true
 
-nav:
-  - title: About
-    url: /
-  - title: Publications
-    url: /publications/
-
 announcements:
   enabled: false
   scrollable: true
