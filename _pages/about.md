@@ -20,7 +20,7 @@ latest_posts:
   limit: 3
 ---
 
-## About me
+### About me
 
 I’m a Ph.D. candidate in the Department of Electrical Engineering and Computer Science at the **University of California, Irvine (UCI)**, advised by [Prof. Mohsen Imani](http://www.mohsenimani.com/). Before that, I did my M.S. in Computer Science at Texas A&M University with [Prof. Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) and worked on knowledge-graph error detection and trustworthy data mining.
 
@@ -40,7 +40,7 @@ Recently, I’ve been working on (first-authored):
   
 - Other trustworthy ML directions. Interpretable dynamic GNNs: [\[EUSIPCO’23\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10289852); anomaly detection on KGs: [\[IJCAI’25\]](https://www.ijcai.org/proceedings/2025/0349.pdf)
 
-## News
+### News
 
 - Oct. 2025: One paper has been accepted by WSDM 2026. See you in Boise!
   
@@ -66,7 +66,7 @@ Recently, I’ve been working on (first-authored):
   
 - Aug. 2022: One paper has been accepted by CIKM 2022. See you in Atlanta!
 
-## Education
+### Education
 
 - Ph.D. in Computer Engineering, University of California, Irvine, 2021 – 2026 (expected)  
 
@@ -75,7 +75,7 @@ Recently, I’ve been working on (first-authored):
 - M.S. in Information Science, University of Pittsburgh, 2017 – 2019
 
   
-## Publications
+### Publications
 
 Please refer to the [Publications](/publications/) page or my [Google Scholar](https://scholar.google.com/citations?user=bufbDK0AAAAJ&hl=en).
 
