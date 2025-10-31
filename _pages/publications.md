@@ -10,8 +10,6 @@ nav_order: 1
 
 [Google Scholar](https://scholar.google.com/citations?user=bufbDK0AAAAJ&hl)
 
-$$*$$ equal contribution.
-
 <!-- _pages/publications.md -->
 <div class="publications">
 
