@@ -1,39 +1,33 @@
 source "https://rubygems.org"
 
-# 核心
-gem "jekyll", "~> 4.4"
+gem "jekyll"
 
+# 这组是构建站点时一定要装的插件
 group :jekyll_plugins do
-  # 真的常用的
+  gem "jekyll-archives-v2"
+  gem "jekyll-email-protect"
   gem "jekyll-feed"
-  gem "jekyll-sitemap"
+  gem "jekyll-get-json"
+  gem "jekyll-imagemagick"
+  gem "jekyll-jupyter-notebook"
+  gem "jekyll-link-attributes"
+  gem "jekyll-minifier"
   gem "jekyll-paginate-v2"
-  gem "jekyll-toc"
+  gem "jekyll-regex-replace"
   gem "jekyll-scholar"
+  gem "jekyll-sitemap"
   gem "jekyll-tabs"
+  gem "jekyll-terser", git: "https://github.com/RobertoJBeltran/jekyll-terser.git"
+  gem "jekyll-toc"
+  gem "jekyll-twitter-plugin"
   gem "jemoji"
 
-  # 你要的这个也可以留着
-  gem "jekyll-link-attributes"
+  # 👇 这两个是你 _config.yml 里 external_sources 用到的
+  gem "feedjira"
+  gem "httparty"
 
-  # 下面这几个先关掉，等稳定了再说
-  # gem "jekyll-imagemagick"
-  # gem "jekyll-jupyter-notebook"
-  # gem "jekyll-minifier"
-  # gem "jekyll-terser", git: "https://github.com/RobertoJBeltran/jekyll-terser.git"
-  # gem "jekyll-get-json"
-  # gem "jekyll-email-protect"
-  # gem "jekyll-regex-replace"
-  # gem "jekyll-twitter-plugin"
-  # gem "jekyll-archives-v2"
-  # gem "classifier-reborn"
+  # 这个其实是给 jekyll-scholar 用来解析的
+  gem "css_parser"
+  gem "observer"
+  gem "ostruct"
 end
-
-# 开发/辅助的可以先全关
-# group :other_plugins do
-#   gem "css_parser"
-#   gem "feedjira"
-#   gem "httparty"
-#   gem "observer"
-#   gem "ostruct"
-# end
