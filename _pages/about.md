@@ -54,4 +54,13 @@ Recently, I’ve been working on (first-authored):
 - Aug. 2023: One paper has been accepted by CIKM 2023. See you in the United Kingdom!
 - May 2023: One paper has been accepted by EUSIPCO 2023. See you in Finland!
 - Aug. 2022: One paper has been accepted by CIKM 2022. See you in Atlanta!
+- 
+
+## Education
+
+- Ph.D. in Computer Engineering, University of California, Irvine, 2021 – 2026 (expected)  
+
+- M.S. in Computer Science, Texas A&M University, 2019 – 2021
+
+- M.S. in Information Science, University of Pittsburgh, 2017 – 2019 
 
