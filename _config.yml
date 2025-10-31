@@ -198,6 +198,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate-v2
   - jemoji
+  - jekyll-imagemagick
 
 
 # Sitemap settings
