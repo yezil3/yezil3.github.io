@@ -348,7 +348,7 @@ external_links:
 # MAKE SURE imagemagick is installed and on your PATH before enabling imagemagick. In a terminal, run:
 #   convert -version
 imagemagick:
-  enabled: true
+  enabled: false
   widths:
     - 480
     - 800
