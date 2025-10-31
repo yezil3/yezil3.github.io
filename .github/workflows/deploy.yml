@@ -67,6 +67,7 @@ permissions:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
@@ -75,7 +76,7 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.3.5"
-          bundler-cache: true
+          bundler-cache: false   # 我们手动跑 bundle install
 
       - name: Setup Python 🐍
         uses: actions/setup-python@v5
@@ -93,14 +94,23 @@ jobs:
 
       - name: Clean Jekyll cache
         run: |
-          rm -rf .jekyll-cache || true
-          rm -rf _site || true
+          rm -rf .jekyll-cache
+          rm -rf _site
+          rm -rf vendor/bundle
 
-      - name: Install and Build 🔧
+      - name: Install system deps
         run: |
-          sudo apt-get update && sudo apt-get install -y imagemagick
-          pip3 install --upgrade nbconvert
-          export JEKYLL_ENV=production
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
+
+      - name: Install Ruby gems
+        run: |
+          bundle install --jobs 4 --retry 3
+
+      - name: Build site 🔧
+        env:
+          JEKYLL_ENV: production
+        run: |
           bundle exec jekyll build
 
       - name: Purge unused CSS 🧹
