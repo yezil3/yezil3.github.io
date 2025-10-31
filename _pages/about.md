@@ -52,7 +52,7 @@ Recently, I’ve been working on (first-authored):
   
 - April 2025: One paper has been accepted by IJCAI 2025. See you in Canada!
   
-- Jan. 2025: Two papers have been accepted by The Web Conference 2025. See you in Washington, D.C.!
+- Jan. 2025: Two papers have been accepted by The Web Conference 2025. See you in Australia!
   
 - Oct. 2024: Two papers have been accepted by WACV 2025. See you in Tucson!
   
