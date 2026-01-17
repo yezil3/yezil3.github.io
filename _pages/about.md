@@ -41,6 +41,7 @@ Recently, I've been working on (first-authored):
 - Other trustworthy ML directions. Interpretable dynamic GNNs: [\[IJCAI'25\]](https://www.ijcai.org/proceedings/2025/0349.pdf), anomaly detection on KGs: [\[EUSIPCO'23\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10289852)
 
 ### News
+- Jan. 2026: One paper has been accepted by ICASSP 2026. See you in Spain!
 
 - Oct. 2025: One paper has been accepted by WSDM 2026. See you in Boise!
   
