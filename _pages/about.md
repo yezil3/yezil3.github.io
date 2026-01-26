@@ -32,7 +32,7 @@ Recently, I've been working on (first-authored):
   
 - Efficient LLM reasoning through KGs. Using high-dimensional representations for path retrieval/KG reasoning to reduce memory and computation while preserving reasoning performance. [Under review]
   
-- Fairness on graphs/ML/LLMs. [\[ICLR'26\]](https://arxiv.org/abs/2512.09467)[\[WSDM'26\]](https://yezil3.github.io) [\[WWW'25 (short)\]](https://dl.acm.org/doi/pdf/10.1145/3701716.3715479) [\[CIKM'23 (short)\]](https://dl.acm.org/doi/pdf/10.1145/3583780.3615176) [\[Frontiers in Big Data\]](https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2024.1489306/full)
+- Fairness on graphs/ML/LLMs. [\[ICLR'26\]](https://arxiv.org/abs/2512.09467) [\[WSDM'26\]](https://yezil3.github.io) [\[WWW'25 (short)\]](https://dl.acm.org/doi/pdf/10.1145/3701716.3715479) [\[CIKM'23 (short)\]](https://dl.acm.org/doi/pdf/10.1145/3583780.3615176) [\[Frontiers in Big Data\]](https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2024.1489306/full)
 
 - Fairness-aware graph unlearning/machine unlearning.  [\[CIKM'25\]](https://dl.acm.org/doi/pdf/10.1145/3746252.3761299) 
   
