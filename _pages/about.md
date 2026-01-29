@@ -41,7 +41,7 @@ Recently, I've been working on (first-authored):
 - Other trustworthy ML directions. Interpretable dynamic GNNs: [\[IJCAI'25\]](https://www.ijcai.org/proceedings/2025/0349.pdf), anomaly detection on KGs: [\[EUSIPCO'23\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10289852)
 
 ### News
-- Jan. 2026: Guest lecture on Machine Learning Fairness (CS 517, University of Illinois Chicago).
+- Jan. 2026: Invited talk on Machine Learning Fairness for CS 517 at the University of Illinois, Chicago. Thanks for the invitation!
 
 - Jan. 2026: One paper has been accepted by ICLR 2026. See you in Brazil!
   
