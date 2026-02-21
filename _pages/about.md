@@ -41,6 +41,8 @@ Recently, I've been working on (first-authored):
 - Other trustworthy ML directions. Interpretable dynamic GNNs: [\[IJCAI'25\]](https://www.ijcai.org/proceedings/2025/0349.pdf), anomaly detection on KGs: [\[EUSIPCO'23\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10289852)
 
 ### News
+- Feb. 2026: One paper has been accepted by CVPR 2026. See you in Denver!
+  
 - Jan. 2026: Invited talk on Fairness in ML for CS 517 at the University of Illinois, Chicago. Thanks for the invitation!
 
 - Jan. 2026: One paper has been accepted by ICLR 2026. See you in Brazil!
@@ -48,6 +50,8 @@ Recently, I've been working on (first-authored):
 - Jan. 2026: One paper has been accepted by ICASSP 2026. See you in Spain!
 
 - Oct. 2025: One paper has been accepted by WSDM 2026. See you in Boise!
+
+- Aug. 2025: Served as a Session Chair at IJCAI 2025.
   
 - Aug. 2025: One paper has been accepted by CIKM 2025. See you in South Korea!
   
