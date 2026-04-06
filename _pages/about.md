@@ -28,7 +28,7 @@ My research sits at the intersection of **trustworthy & efficient graph learning
 
 Recently, I've been working on (first-authored):
 
-- Privacy-aware efficient LLM. [ACL 2026 Findings][Under review]
+- Privacy-aware efficient LLM. [\[ACL'26 Findings\]](https://arxiv.org/abs/2512.07375)[Under review]
   
 - Efficient LLM reasoning through KGs. Using high-dimensional representations for path retrieval/KG reasoning to reduce memory and computation while preserving reasoning performance. [Under review]
   
