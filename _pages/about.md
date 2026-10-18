@@ -81,7 +81,7 @@ Recently, I've been working on (first-authored):
 
 ### Education
 
-- Ph.D. in Computer Engineering, University of California, Irvine, 2021 – 2026 (expected)  
+- Ph.D. in Computer Engineering, University of California, Irvine, 2021 – 2026
 
 - M.S. in Computer Science, Texas A&M University, 2019 – 2021
 
